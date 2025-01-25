@@ -2,26 +2,36 @@ using System;
 
 class Largest
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        //Prompt the user to enter three numbers
-        Console.Write("Enter the first number: ");
-        int number1 = Convert.ToInt32(Console.ReadLine());
-        
-        Console.Write("Enter the second number: ");
-        int number2 = Convert.ToInt32(Console.ReadLine());
-        
-        Console.Write("Enter the third number: ");
-        int number3 = Convert.ToInt32(Console.ReadLine());
-
-        // Determining which number is the largest
-        bool isFirstLargest = number1 >= number2 && number1 >= number3;
-        bool isSecondLargest = number2 >= number1 && number2 >= number3;
-        bool isThirdLargest = number3 >= number1 && number3 >= number2;
-
-        //results
-        Console.WriteLine("Is the first number the largest? " + (isFirstLargest ? "Yes" : "No"));
-        Console.WriteLine("Is the second number the largest? " + (isSecondLargest ? "Yes" : "No"));
-        Console.WriteLine("Is the third number the largest? " + (isThirdLargest ? "Yes" : "No"));
+        // Input the number from the user
+        Console.Write("Enter a number: ");
+        int number = int.Parse(Console.ReadLine());
+        int maxDigit = 10;
+        int[] digits = new int[maxDigit];
+        int index = 0;
+        while (number != 0 && index < maxDigit)
+        {
+            digits[index] = number % 10;
+            number = number / 10;
+            index++;
+        }
+        int largest = 0;
+        int secondLargest = 0;
+        for (int i = 0; i < index; i++)
+        {
+            if (digits[i] > largest)
+            {
+                secondLargest = largest;
+                largest = digits[i];
+            }
+            else if (digits[i] > secondLargest && digits[i] < largest)
+            {
+                secondLargest = digits[i];
+            }
+        }
+        // Output the results
+        Console.WriteLine("Largest digit: " + largest);
+        Console.WriteLine("Second largest digit: " + secondLargest);
     }
 }

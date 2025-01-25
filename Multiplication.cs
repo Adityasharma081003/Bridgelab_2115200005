@@ -1,18 +1,25 @@
 using System;
 
-class Multiplication
+class MultiplicationTable
 {
-    static void Main(string[] args)
+    static void Main()
     {
-        // Prompt the user to enter a number
-        Console.Write("Enter a number to find its multiplication table: ");
-        int number = Convert.ToInt32(Console.ReadLine());
-
-        
-        Console.WriteLine("Multiplication table of " + number + " from 6 to 9:");
-        for (int i = 6; i <= 9; i++)
+        Console.Write("Enter a number to generate its multiplication table: ");
+        int number;
+        while (!int.TryParse(Console.ReadLine(), out number))
         {
-            Console.WriteLine(number + " * " + i + " = " + (number * i));
+            Console.WriteLine("Invalid input. Please enter a valid integer.");
+            Console.Write("Enter a number to generate its multiplication table: ");
+        }
+        int[] multiplicationTable = new int[10];
+        for (int i = 0; i < multiplicationTable.Length; i++)
+        {
+            multiplicationTable[i] = number * (i + 1);
+        }
+        Console.WriteLine("\nMultiplication Table of " + number + ":");
+        for (int i = 0; i < multiplicationTable.Length; i++)
+        {
+            Console.WriteLine(number + " * " + (i + 1) + " = " + multiplicationTable[i]);
         }
     }
 }
