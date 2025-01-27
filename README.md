@@ -8,6 +8,16 @@ Abstraction from Hardware: C# abstracts away the details of the computer's hardw
 3. Advanced Features: C# provides extensive libraries and frameworks for various tasks, supports object-oriented programming, and handles memory management with automatic garbage collection. 
 4. Ease of Use: C# has a human-readable syntax, strong error-checking, and powerful development tools that enhance productivity and simplify complex tasks.
 
+Operators:
+Arithmetic Operator : + , - , * / , %;
+Relational Operator : == ,!=  <, >,<=,>=
+Logical Operator : && ,||,!
+Assignment Operator : +=,-=,/=,*=
+Increment Operator : ++, --, 
+Bitiwse Operator : & , |, ^, ~,x<<1,x>>1
+
+
+
 feature-23-1-25
 
 CLR :The Common Language Runtime (CLR) is a core component of .NET Framework that manages the execution and the lifecycle of all .NET applications (code). It provides various services, including automatic memory management, exception handling, security, and type safety. When a .NET application is compiled, it generates an intermediate language code called Common Intermediate Language (CIL). The CLR is responsible for translating this CIL into machine code and managing the execution of the resulting program. The CLR also provides a platform for interoperability between different programming languages that target the .NET Framework. This means that a program written in one .NET language can easily use libraries written in another .
@@ -61,6 +71,19 @@ Explicit Conversion (Type Casting)
 Definition: Conversion that requires explicit syntax because it might result in data loss or a runtime exception.
 
 Syntax: Use the cast operator (type).
+
+Control Flow
+for Loop:
+The for loop is used when you know the number of iterations in advance. It consists of three parts:
+
+Initialization: Set up the loop counter.
+Condition: The loop runs as long as this condition is true.
+Increment/Decrement: Update the loop counter after each iteration.
+while Loop
+The while loop runs as long as the condition is true. The condition is checked before each iteration.
+ do-while Loop
+The do-while loop is similar to the while loop, but it guarantees that the code is executed at least once because the condition is checked after the loop body.
+
 
 
 
