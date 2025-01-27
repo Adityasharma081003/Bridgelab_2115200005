@@ -33,6 +33,16 @@ Type-Safe: CIL enforces type safety, ensuring reliable and secure execution.
 Language Interoperability: Any .NET-supported language (e.g., C#, VB.NET, F#) compiles into CIL, enabling cross-language compatibility.
 Managed Execution: It benefits from the CLR's features like garbage collection, exception handling, and runtime type checking.
 
+Static:
+A static method is a method that belongs to the class itself, rather than to instances (objects) of the class. It is called on the class rather than on an object.
+Static methods are defined using the static keyword and can be invoked without creating an instance of the class.
+Belongs to the Class, Not the Instance: Static methods are called on the class itself, not on an instance.
+Cannot Access Instance Members: Static methods cannot access non-static instance variables or methods (those that belong to an object). They can only access other static members of the class.
+Can Be Called Directly: You don’t need to create an object to invoke a static method. It’s called directly on the class.
+No this Keyword: Static methods don’t have access to the this keyword (which refers to the current object in non-static methods).
+
+
+
 feature-24-1-25
 
 The data type which stores the value directly in the memory is called the Value Data Type in C#. The examples are int, char, boolean, and float which store numbers, alphabets, true/false, and floating-point numbers respectively. 
