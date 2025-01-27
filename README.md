@@ -82,6 +82,13 @@ Definition: Conversion that requires explicit syntax because it might result in 
 
 Syntax: Use the cast operator (type).
 
+
+Boxing:
+the process of converting a Value Type variable (char, int etc.) to a Reference Type variable (object) is called Boxing.
+Boxing is an implicit conversion process in which object type (super type) is used.
+Value type variables are generally stored on the stack when they are local variables. When they are fields within a reference type, they are part of the heap-allocated memory for the reference type.
+
+
 Control Flow
 for Loop:
 The for loop is used when you know the number of iterations in advance. It consists of three parts:
