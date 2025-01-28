@@ -61,8 +61,8 @@ Access Modifiers
 
 1.public	The code is accessible for all classes
 2.private	The code is only accessible within the same class
-3.protected	The code is accessible within the same class, or in a class that is inherited from that class. You will learn more about inheritance in a later chapter
-4.internal	The code is only accessible within its own assembly, but not from another assembly. You will learn more about this in a later chapter
+3.protected	The code is accessible within the same class, or in a class that is inherited from that class. 
+4.internal	The code is only accessible within its own assembly, but not from another assembly.
 5.protected internal: Only code in the same assembly or in a derived class in another assembly can access this type or member.
 6.private protected: Only code in the same assembly and in the same class or a derived class can access the type or member.
  
