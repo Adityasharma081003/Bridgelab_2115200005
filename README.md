@@ -9,12 +9,12 @@ Abstraction from Hardware: C# abstracts away the details of the computer's hardw
 4. Ease of Use: C# has a human-readable syntax, strong error-checking, and powerful development tools that enhance productivity and simplify complex tasks.
 
 # Operators:
-Arithmetic Operator : + , - , * / , %;
-Relational Operator : == ,!=  <, >,<=,>=
-Logical Operator : && ,||,!
-Assignment Operator : +=,-=,/=,*=
-Increment Operator : ++, --, 
-Bitiwse Operator : & , |, ^, ~,x<<1,x>>1
+- Arithmetic Operator : + , - , * / , %;
+- Relational Operator : == ,!=  <, >,<=,>=
+- Logical Operator : && ,||,!
+- Assignment Operator : +=,-=,/=,*=
+- Increment Operator : ++, --, 
+- Bitiwse Operator : & , |, ^, ~,x<<1,x>>1
 
 
 
@@ -28,8 +28,8 @@ CIL is a low-level, platform-independent intermediate code used in the .NET fram
 
 # Key Features:
 
-Platform-Independent: CIL allows .NET applications to run on multiple platforms by being compiled into machine code specific to the platform at runtime using the Just-In-Time (JIT) compiler.
-Type-Safe: CIL enforces type safety, ensuring reliable and secure execution.
+- Platform-Independent: CIL allows .NET applications to run on multiple platforms by being compiled into machine code specific to the platform at runtime using the Just-In-Time (JIT) compiler.
+- Type-Safe: CIL enforces type safety, ensuring reliable and secure execution.
 Language Interoperability: Any .NET-supported language (e.g., C#, VB.NET, F#) compiles into CIL, enabling cross-language compatibility.
 Managed Execution: It benefits from the CLR's features like garbage collection, exception handling, and runtime type checking.
 
@@ -46,7 +46,7 @@ No this Keyword: Static methods don’t have access to the this keyword (which r
 ## feature-24-1-25
 
 The data type which stores the value directly in the memory is called the Value Data Type in C#. The examples are int, char, boolean, and float which store numbers, alphabets, true/false, and floating-point numbers respectively. 
-Primitive Value Types:
+### Primitive Value Types:
 Numeric Types:
 - int: 32-bit signed integer.
 - long: 64-bit signed integer.
