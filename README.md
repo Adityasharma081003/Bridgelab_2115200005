@@ -103,7 +103,7 @@ The do-while loop is similar to the while loop, but it guarantees that the code 
 
 
 
-## Assignment with Code of 25-01-2025 date is Done
+## Assignment of 25-01-2025 date is Done
 - I have learned the following topics through this assignment:
  - C# Arrays
  - Create an Array
@@ -116,7 +116,7 @@ The do-while loop is similar to the while loop, but it guarantees that the code 
  - Accessing, finding size, etc., of Multi-Dimensional Array
  - Using C# Console.Error.WriteLine() Message and Environment.Exit() Method
 
-## Assignment with Code of 28-01-2025 date is Done
+## Assignment of 28-01-2025 date is Done
 - I have learned the following topics through this assignment:
  - User-Defined Methods
  - Using Methods Multiple Times
@@ -126,35 +126,35 @@ The do-while loop is similar to the while loop, but it guarantees that the code 
  - .NET Standard Library Methods
  - System.Math Class in C#
 
-## Assignment with Code of 30-01-2025 date is Done
+## Assignment of 30-01-2025 date is Done
 - I have learned the following topics through this assignment:
 - The outcome is the usage of Strings
 - Handling strings and common string functions
 - Functions and function parameter passing, return the value of function
 - Use common Built-in Functions and build the logic
 
-## Assignment with Code of 31-01-2025 date is Done
+## Assignment 31-01-2025 date is Done
  - Solved more questions on strings and others for logic building purpose through this assignment:
 
-## Assignment with Code of 31-1-2025 is done
+## Assignment of 31-1-2025 is done
  - I have learned the following topics through this assignment:
  - Procedural vs Object-oriented Programming Language
  - Class and Objects
 
-## Assignment with Code of 2-2-2025 is done
+## Assignment of 2-2-2025 is done
  - I have learned the following topics through this assignment:
  - C# Constructors
  - Instance vs. Class Variables
  - Access Modifiers Concepts
 
-## Assignment with Code of 4-2-2025 is done
+## Assignment of 4-2-2025 is done
  - I have learned the following topics through this assignment:
  - Usage of THIS keyword
  - Static data members
  - sealed keyword
  - IS OPERATOR
 
-## Assignment with Code of 6-2-2025 is done
+## Assignment of 6-2-2025 is done
  - I have learned the following topics through this assignment:
  - Object Oriented Design Principles
  - Class Diagram
@@ -163,7 +163,7 @@ The do-while loop is similar to the while loop, but it guarantees that the code 
  - HasARelationship vs IsARelationship
  - Association, Aggregation, Composition
 
-## Assignment with Code of 08-02-2025 date is Done
+## Assignment of 08-02-2025 date is Done
  - I have learned the following topics through this assignment:
  - Inheritance
  - Single Level Inheritance
@@ -175,12 +175,36 @@ The do-while loop is similar to the while loop, but it guarantees that the code 
  - Polymorphism and Inheritance
  - Access Modifiers and Inheritance
 
-## Assignment with Code of 10-02-2025 date is Done
+## Assignment of 10-02-2025 date is Done
  - I have learned the following topics through this assignment:
  - Encapsulation
  - Polymorphism
  - Interface
  - Abstract Classes
+## Assignment with Code 12-2-25 done:
+- Single Linked List
+- Double Linked List
+- Circular Linked List
+## Assignment with Code 13-2-25 done :
+- Stack
+- Queue
+- HashMap(known as Dictionary)
+- Hash Function
+## Assignment with code 14-2-25 done:
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+
+## Assignment with code 16-2-25
+- StringBuilder
+- StringBuffer
+- FileReader 
+- InputStreamReader
+- Linear Search 
+- Binary Search
+
+
 
 
 
