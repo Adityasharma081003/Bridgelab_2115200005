@@ -103,6 +103,89 @@ The do-while loop is similar to the while loop, but it guarantees that the code 
 
 
 
+#Assignment with Code of 25-01-2025 date is Done
+I have learned the following topics through this assignment:
+C# Arrays
+Create an Array
+Access an Array
+Accessing using for loop
+Modifying an Array
+Using length property of array
+C# Multi-dimensional Array
+C# 2 Dimensional Array (Matrix)
+Accessing, finding size, etc., of Multi-Dimensional Array
+Using C# Console.Error.WriteLine() Message and Environment.Exit() Method
+
+#Assignment with Code of 28-01-2025 date is Done
+I have learned the following topics through this assignment:
+User-Defined Methods
+Using Methods Multiple Times
+Making Methods More Dynamic
+Recursive Methods
+Static Methods in C#
+.NET Standard Library Methods
+System.Math Class in C#
+
+#Assignment with Code of 30-01-2025 date is Done
+I have learned the following topics through this assignment:
+The outcome is the usage of Strings
+Handling strings and common string functions
+Functions and function parameter passing, return the value of function
+Use common Built-in Functions and build the logic
+
+#Assignment with Code of 31-01-2025 date is Done
+Solved more questions on strings and others for logic building purpose through this assignment:
+
+#Assignment with Code of 31-1-2025 is done
+I have learned the following topics through this assignment:
+Procedural vs Object-oriented Programming Language
+Class and Objects
+
+#Assignment with Code of 2-2-2025 is done
+I have learned the following topics through this assignment:
+C# Constructors
+Instance vs. Class Variables
+Access Modifiers Concepts
+
+#Assignment with Code of 4-2-2025 is done
+I have learned the following topics through this assignment:
+Usage of THIS keyword
+Static data members
+sealed keyword
+IS OPERATOR
+
+#Assignment with Code of 6-2-2025 is done
+I have learned the following topics through this assignment:
+Object Oriented Design Principles
+Class Diagram
+Object Diagrams
+Sequence Diagrams
+HasARelationship vs IsARelationship
+Association, Aggregation, Composition
+
+#Assignment with Code of 08-02-2025 date is Done
+I have learned the following topics through this assignment:
+Inheritance
+Single Level Inheritance
+Multilevel Inheritance
+Hierarchical Inheritance
+Key Features of Inheritance
+Method Overriding
+Constructor Inheritance in C#
+Polymorphism and Inheritance
+Access Modifiers and Inheritance
+
+#Assignment with Code of 10-02-2025 date is Done
+I have learned the following topics through this assignment:
+Encapsulation
+Polymorphism
+Interface
+Abstract Classes
+
+
+
+
+
 
 
 
