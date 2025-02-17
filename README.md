@@ -1,4 +1,4 @@
-## feature-22-1-25 
+# feature-22-1-25 
 
 
 Introduction to C# C# is just a simple, secure, robust, portable, platform-independent, architectural neutral, multithreaded, object-oriented programming language with a strong type exception handling mechanism for developing different kinds of applications such as Web, Windows Form, Console, Web Services, Mobile Apps, etc.C# was created by Microsoft in the early 2000s as part of its .NET initiative.
@@ -203,6 +203,11 @@ The do-while loop is similar to the while loop, but it guarantees that the code 
 - InputStreamReader
 - Linear Search 
 - Binary Search
+## Assignment with code 17-2-25
+- General Algorithm Best Practices
+- Time and space Complexity Optimization
+
+
 
 
 
