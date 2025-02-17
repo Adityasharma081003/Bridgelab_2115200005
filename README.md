@@ -1,4 +1,4 @@
-feature-22-1-25 
+## feature-22-1-25 
 
 
 Introduction to C# C# is just a simple, secure, robust, portable, platform-independent, architectural neutral, multithreaded, object-oriented programming language with a strong type exception handling mechanism for developing different kinds of applications such as Web, Windows Form, Console, Web Services, Mobile Apps, etc.C# was created by Microsoft in the early 2000s as part of its .NET initiative.
@@ -8,7 +8,7 @@ Abstraction from Hardware: C# abstracts away the details of the computer's hardw
 3. Advanced Features: C# provides extensive libraries and frameworks for various tasks, supports object-oriented programming, and handles memory management with automatic garbage collection. 
 4. Ease of Use: C# has a human-readable syntax, strong error-checking, and powerful development tools that enhance productivity and simplify complex tasks.
 
-Operators:
+# Operators:
 Arithmetic Operator : + , - , * / , %;
 Relational Operator : == ,!=  <, >,<=,>=
 Logical Operator : && ,||,!
@@ -18,7 +18,7 @@ Bitiwse Operator : & , |, ^, ~,x<<1,x>>1
 
 
 
-feature-23-1-25
+## feature-23-1-25
 
 CLR :The Common Language Runtime (CLR) is a core component of .NET Framework that manages the execution and the lifecycle of all .NET applications (code). It provides various services, including automatic memory management, exception handling, security, and type safety. When a .NET application is compiled, it generates an intermediate language code called Common Intermediate Language (CIL). The CLR is responsible for translating this CIL into machine code and managing the execution of the resulting program. The CLR also provides a platform for interoperability between different programming languages that target the .NET Framework. This means that a program written in one .NET language can easily use libraries written in another .
 
@@ -26,14 +26,14 @@ CLR :The Common Language Runtime (CLR) is a core component of .NET Framework tha
 
 CIL is a low-level, platform-independent intermediate code used in the .NET framework. When you write and compile C# code, it gets converted into CIL by the C# compiler. This intermediate code is then executed by the Common Language Runtime (CLR).
 
-Key Features:
+# Key Features:
 
 Platform-Independent: CIL allows .NET applications to run on multiple platforms by being compiled into machine code specific to the platform at runtime using the Just-In-Time (JIT) compiler.
 Type-Safe: CIL enforces type safety, ensuring reliable and secure execution.
 Language Interoperability: Any .NET-supported language (e.g., C#, VB.NET, F#) compiles into CIL, enabling cross-language compatibility.
 Managed Execution: It benefits from the CLR's features like garbage collection, exception handling, and runtime type checking.
 
-Static:
+# Static:
 A static method is a method that belongs to the class itself, rather than to instances (objects) of the class. It is called on the class rather than on an object.
 Static methods are defined using the static keyword and can be invoked without creating an instance of the class.
 Belongs to the Class, Not the Instance: Static methods are called on the class itself, not on an instance.
@@ -43,7 +43,7 @@ No this Keyword: Static methods don’t have access to the this keyword (which r
 
 
 
-feature-24-1-25
+## feature-24-1-25
 
 The data type which stores the value directly in the memory is called the Value Data Type in C#. The examples are int, char, boolean, and float which store numbers, alphabets, true/false, and floating-point numbers respectively. 
 Primitive Value Types:
@@ -57,7 +57,7 @@ double: 64-bit floating-point (15-16 digits precision).
 char: Single 16-bit Unicode character.
 bool: Boolean values (true or false).
 
-Access Modifiers
+# Access Modifiers
 
 1.public	The code is accessible for all classes
 2.private	The code is only accessible within the same class
@@ -66,12 +66,12 @@ Access Modifiers
 5.protected internal: Only code in the same assembly or in a derived class in another assembly can access this type or member.
 6.private protected: Only code in the same assembly and in the same class or a derived class can access the type or member.
  
-Type Conversion:
+# Type Conversion:
 
 Implicit Conversion
 Definition: Automatic type conversion performed by the compiler.
 
-Characteristics:
+# Characteristics:
 
 No data loss occurs during conversion.
 Happens between compatible types.
@@ -83,17 +83,17 @@ Definition: Conversion that requires explicit syntax because it might result in 
 Syntax: Use the cast operator (type).
 
 
-Boxing:
+# Boxing:
 the process of converting a Value Type variable (char, int etc.) to a Reference Type variable (object) is called Boxing.
 Boxing is an implicit conversion process in which object type (super type) is used.
 Value type variables are generally stored on the stack when they are local variables. When they are fields within a reference type, they are part of the heap-allocated memory for the reference type.
 
 
-Control Flow
+# Control Flow
 for Loop:
 The for loop is used when you know the number of iterations in advance. It consists of three parts:
 
-Initialization: Set up the loop counter.
+# Initialization: Set up the loop counter.
 Condition: The loop runs as long as this condition is true.
 Increment/Decrement: Update the loop counter after each iteration.
 while Loop
@@ -103,7 +103,7 @@ The do-while loop is similar to the while loop, but it guarantees that the code 
 
 
 
-#Assignment with Code of 25-01-2025 date is Done
+## Assignment with Code of 25-01-2025 date is Done
 I have learned the following topics through this assignment:
 C# Arrays
 Create an Array
@@ -116,7 +116,7 @@ C# 2 Dimensional Array (Matrix)
 Accessing, finding size, etc., of Multi-Dimensional Array
 Using C# Console.Error.WriteLine() Message and Environment.Exit() Method
 
-#Assignment with Code of 28-01-2025 date is Done
+## Assignment with Code of 28-01-2025 date is Done
 I have learned the following topics through this assignment:
 User-Defined Methods
 Using Methods Multiple Times
@@ -126,14 +126,14 @@ Static Methods in C#
 .NET Standard Library Methods
 System.Math Class in C#
 
-#Assignment with Code of 30-01-2025 date is Done
+## Assignment with Code of 30-01-2025 date is Done
 I have learned the following topics through this assignment:
 The outcome is the usage of Strings
 Handling strings and common string functions
 Functions and function parameter passing, return the value of function
 Use common Built-in Functions and build the logic
 
-#Assignment with Code of 31-01-2025 date is Done
+## Assignment with Code of 31-01-2025 date is Done
 Solved more questions on strings and others for logic building purpose through this assignment:
 
 #Assignment with Code of 31-1-2025 is done
@@ -141,20 +141,20 @@ I have learned the following topics through this assignment:
 Procedural vs Object-oriented Programming Language
 Class and Objects
 
-#Assignment with Code of 2-2-2025 is done
+## Assignment with Code of 2-2-2025 is done
 I have learned the following topics through this assignment:
 C# Constructors
 Instance vs. Class Variables
 Access Modifiers Concepts
 
-#Assignment with Code of 4-2-2025 is done
+## Assignment with Code of 4-2-2025 is done
 I have learned the following topics through this assignment:
 Usage of THIS keyword
 Static data members
 sealed keyword
 IS OPERATOR
 
-#Assignment with Code of 6-2-2025 is done
+## Assignment with Code of 6-2-2025 is done
 I have learned the following topics through this assignment:
 Object Oriented Design Principles
 Class Diagram
@@ -163,7 +163,7 @@ Sequence Diagrams
 HasARelationship vs IsARelationship
 Association, Aggregation, Composition
 
-#Assignment with Code of 08-02-2025 date is Done
+## Assignment with Code of 08-02-2025 date is Done
 I have learned the following topics through this assignment:
 Inheritance
 Single Level Inheritance
@@ -175,7 +175,7 @@ Constructor Inheritance in C#
 Polymorphism and Inheritance
 Access Modifiers and Inheritance
 
-#Assignment with Code of 10-02-2025 date is Done
+## Assignment with Code of 10-02-2025 date is Done
 I have learned the following topics through this assignment:
 Encapsulation
 Polymorphism
