@@ -48,14 +48,14 @@ No this Keyword: Static methods don’t have access to the this keyword (which r
 The data type which stores the value directly in the memory is called the Value Data Type in C#. The examples are int, char, boolean, and float which store numbers, alphabets, true/false, and floating-point numbers respectively. 
 Primitive Value Types:
 Numeric Types:
-int: 32-bit signed integer.
-long: 64-bit signed integer.
-short: 16-bit signed integer.
-byte: 8-bit unsigned integer.
-float: 32-bit floating-point (7 digits precision).
-double: 64-bit floating-point (15-16 digits precision).
-char: Single 16-bit Unicode character.
-bool: Boolean values (true or false).
+- int: 32-bit signed integer.
+- long: 64-bit signed integer.
+- short: 16-bit signed integer.
+- byte: 8-bit unsigned integer.
+- float: 32-bit floating-point (7 digits precision).
+- double: 64-bit floating-point (15-16 digits precision).
+- char: Single 16-bit Unicode character.
+- bool: Boolean values (true or false).
 
 # Access Modifiers
 
@@ -68,14 +68,14 @@ bool: Boolean values (true or false).
  
 # Type Conversion:
 
-Implicit Conversion
-Definition: Automatic type conversion performed by the compiler.
+- Implicit Conversion
+- Definition: Automatic type conversion performed by the compiler.
 
 # Characteristics:
 
-No data loss occurs during conversion.
-Happens between compatible types.
-Does not require explicit syntax.
+- No data loss occurs during conversion.
+- Happens between compatible types.
+- Does not require explicit syntax.
 
 Explicit Conversion (Type Casting)
 Definition: Conversion that requires explicit syntax because it might result in data loss or a runtime exception.
@@ -90,97 +90,97 @@ Value type variables are generally stored on the stack when they are local varia
 
 
 # Control Flow
-for Loop:
+- for Loop:
 The for loop is used when you know the number of iterations in advance. It consists of three parts:
 
 # Initialization: Set up the loop counter.
-Condition: The loop runs as long as this condition is true.
-Increment/Decrement: Update the loop counter after each iteration.
-while Loop
+- Condition: The loop runs as long as this condition is true.
+- Increment/Decrement: Update the loop counter after each iteration.
+- while Loop
 The while loop runs as long as the condition is true. The condition is checked before each iteration.
- do-while Loop
+- do-while Loop
 The do-while loop is similar to the while loop, but it guarantees that the code is executed at least once because the condition is checked after the loop body.
 
 
 
 ## Assignment with Code of 25-01-2025 date is Done
-I have learned the following topics through this assignment:
- C# Arrays
- Create an Array
- Access an Array
- Accessing using for loop
- Modifying an Array
- Using length property of array
- C# Multi-dimensional Array
- C# 2 Dimensional Array (Matrix)
- Accessing, finding size, etc., of Multi-Dimensional Array
- Using C# Console.Error.WriteLine() Message and Environment.Exit() Method
+- I have learned the following topics through this assignment:
+ - C# Arrays
+ - Create an Array
+ - Access an Array
+ - Accessing using for loop
+ - Modifying an Array
+ - Using length property of array
+ - C# Multi-dimensional Array
+ - C# 2 Dimensional Array (Matrix)
+ - Accessing, finding size, etc., of Multi-Dimensional Array
+ - Using C# Console.Error.WriteLine() Message and Environment.Exit() Method
 
 ## Assignment with Code of 28-01-2025 date is Done
- I have learned the following topics through this assignment:
- User-Defined Methods
- Using Methods Multiple Times
- Making Methods More Dynamic
- Recursive Methods
- Static Methods in C#
- .NET Standard Library Methods
- System.Math Class in C#
+- I have learned the following topics through this assignment:
+ - User-Defined Methods
+ - Using Methods Multiple Times
+ - Making Methods More Dynamic
+ - Recursive Methods
+ - Static Methods in C#
+ - .NET Standard Library Methods
+ - System.Math Class in C#
 
 ## Assignment with Code of 30-01-2025 date is Done
-I have learned the following topics through this assignment:
-The outcome is the usage of Strings
-Handling strings and common string functions
-Functions and function parameter passing, return the value of function
-Use common Built-in Functions and build the logic
+- I have learned the following topics through this assignment:
+- The outcome is the usage of Strings
+- Handling strings and common string functions
+- Functions and function parameter passing, return the value of function
+- Use common Built-in Functions and build the logic
 
 ## Assignment with Code of 31-01-2025 date is Done
- Solved more questions on strings and others for logic building purpose through this assignment:
+ - Solved more questions on strings and others for logic building purpose through this assignment:
 
 ## Assignment with Code of 31-1-2025 is done
- I have learned the following topics through this assignment:
- Procedural vs Object-oriented Programming Language
- Class and Objects
+ - I have learned the following topics through this assignment:
+ - Procedural vs Object-oriented Programming Language
+ - Class and Objects
 
 ## Assignment with Code of 2-2-2025 is done
- I have learned the following topics through this assignment:
- C# Constructors
- Instance vs. Class Variables
- Access Modifiers Concepts
+ - I have learned the following topics through this assignment:
+ - C# Constructors
+ - Instance vs. Class Variables
+ - Access Modifiers Concepts
 
 ## Assignment with Code of 4-2-2025 is done
- I have learned the following topics through this assignment:
- Usage of THIS keyword
- Static data members
- sealed keyword
- IS OPERATOR
+ - I have learned the following topics through this assignment:
+ - Usage of THIS keyword
+ - Static data members
+ - sealed keyword
+ - IS OPERATOR
 
 ## Assignment with Code of 6-2-2025 is done
- I have learned the following topics through this assignment:
- Object Oriented Design Principles
- Class Diagram
- Object Diagrams
- Sequence Diagrams
- HasARelationship vs IsARelationship
- Association, Aggregation, Composition
+ - I have learned the following topics through this assignment:
+ - Object Oriented Design Principles
+ - Class Diagram
+ - Object Diagrams
+ - Sequence Diagrams
+ - HasARelationship vs IsARelationship
+ - Association, Aggregation, Composition
 
 ## Assignment with Code of 08-02-2025 date is Done
- I have learned the following topics through this assignment:
- Inheritance
- Single Level Inheritance
- Multilevel Inheritance
- Hierarchical Inheritance
- Key Features of Inheritance
- Method Overriding
- Constructor Inheritance in C#
- Polymorphism and Inheritance
- Access Modifiers and Inheritance
+ - I have learned the following topics through this assignment:
+ - Inheritance
+ - Single Level Inheritance
+ - Multilevel Inheritance
+ - Hierarchical Inheritance
+ - Key Features of Inheritance
+ - Method Overriding
+ - Constructor Inheritance in C#
+ - Polymorphism and Inheritance
+ - Access Modifiers and Inheritance
 
 ## Assignment with Code of 10-02-2025 date is Done
- I have learned the following topics through this assignment:
- Encapsulation
- Polymorphism
- Interface
- Abstract Classes
+ - I have learned the following topics through this assignment:
+ - Encapsulation
+ - Polymorphism
+ - Interface
+ - Abstract Classes
 
 
 
