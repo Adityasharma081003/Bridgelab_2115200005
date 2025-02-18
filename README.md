@@ -10,7 +10,7 @@ Abstraction from Hardware: C# abstracts away the details of the computer's hardw
 3. Advanced Features: C# provides extensive libraries and frameworks for various tasks, supports object-oriented programming, and handles memory management with automatic garbage collection. 
 4. Ease of Use: C# has a human-readable syntax, strong error-checking, and powerful development tools that enhance productivity and simplify complex tasks.
 
-# Operators:
+## Operators:
 - Arithmetic Operator : + , - , * / , %;
 - Relational Operator : == ,!=  <, >,<=,>=
 - Logical Operator : && ,||,!
@@ -28,14 +28,14 @@ CLR :The Common Language Runtime (CLR) is a core component of .NET Framework tha
 
 CIL is a low-level, platform-independent intermediate code used in the .NET framework. When you write and compile C# code, it gets converted into CIL by the C# compiler. This intermediate code is then executed by the Common Language Runtime (CLR).
 
-# Key Features:
+## Key Features:
 
 - Platform-Independent: CIL allows .NET applications to run on multiple platforms by being compiled into machine code specific to the platform at runtime using the Just-In-Time (JIT) compiler.
 - Type-Safe: CIL enforces type safety, ensuring reliable and secure execution.
 Language Interoperability: Any .NET-supported language (e.g., C#, VB.NET, F#) compiles into CIL, enabling cross-language compatibility.
 Managed Execution: It benefits from the CLR's features like garbage collection, exception handling, and runtime type checking.
 
-# Static:
+## Static:
 A static method is a method that belongs to the class itself, rather than to instances (objects) of the class. It is called on the class rather than on an object.
 Static methods are defined using the static keyword and can be invoked without creating an instance of the class.
 Belongs to the Class, Not the Instance: Static methods are called on the class itself, not on an instance.
@@ -59,7 +59,7 @@ Numeric Types:
 - char: Single 16-bit Unicode character.
 - bool: Boolean values (true or false).
 
-# Access Modifiers
+### Access Modifiers
 
 1.public	The code is accessible for all classes
 2.private	The code is only accessible within the same class
@@ -68,7 +68,7 @@ Numeric Types:
 5.protected internal: Only code in the same assembly or in a derived class in another assembly can access this type or member.
 6.private protected: Only code in the same assembly and in the same class or a derived class can access the type or member.
  
-# Type Conversion:
+## Type Conversion:
 
 - Implicit Conversion
 - Definition: Automatic type conversion performed by the compiler.
@@ -85,7 +85,7 @@ Definition: Conversion that requires explicit syntax because it might result in 
 Syntax: Use the cast operator (type).
 
 
-# Boxing:
+## Boxing:
 the process of converting a Value Type variable (char, int etc.) to a Reference Type variable (object) is called Boxing.
 Boxing is an implicit conversion process in which object type (super type) is used.
 Value type variables are generally stored on the stack when they are local variables. When they are fields within a reference type, they are part of the heap-allocated memory for the reference type.
@@ -95,7 +95,7 @@ Value type variables are generally stored on the stack when they are local varia
 - for Loop:
 The for loop is used when you know the number of iterations in advance. It consists of three parts:
 
-# Initialization: Set up the loop counter.
+## Initialization: Set up the loop counter.
 - Condition: The loop runs as long as this condition is true.
 - Increment/Decrement: Update the loop counter after each iteration.
 - while Loop
