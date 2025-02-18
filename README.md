@@ -1,5 +1,7 @@
-# feature-22-1-25 
+# Capgemini Training 
 
+
+## feature-22-1-25 
 
 Introduction to C# C# is just a simple, secure, robust, portable, platform-independent, architectural neutral, multithreaded, object-oriented programming language with a strong type exception handling mechanism for developing different kinds of applications such as Web, Windows Form, Console, Web Services, Mobile Apps, etc.C# was created by Microsoft in the early 2000s as part of its .NET initiative.
 
@@ -223,6 +225,11 @@ InvalidCastException at runtime.
 readability.
 - Compile-time Checking: Errors are caught early during compilation rather than at
 runtime.
+
+## Assigment 18-2-25:
+Basic Practices for Generics class
+
+
 
 
 
