@@ -206,6 +206,22 @@ The do-while loop is similar to the while loop, but it guarantees that the code 
 ## Assignment with code 17-2-25
 - General Algorithm Best Practices
 - Time and space Complexity Optimization
+## 18-2-25
+Introduction to Generics in C#
+- Generics in C# allow developers to create type-safe, reusable, and flexible code by
+introducing parameterized types. Instead of using object types, generics enable compile-
+time type checking and eliminate the need for explicit type casting.
+Why Use Generics?
+- Type Safety: Ensures that only valid data types are used, preventing
+InvalidCastException at runtime.
+- Code Reusability: A single generic class/method can work with multiple data types.
+- Eliminates Type Casting: Avoids unnecessary explicit casting, improving code
+readability.
+- Compile-time Checking: Errors are caught early during compilation rather than at
+runtime.
+
+
+
 
 
 
