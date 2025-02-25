@@ -239,7 +239,7 @@ Types of Streams
 5. Reader and Writer
 Key Considerations
 
-##Assignment 21-2-25:
+## Assignment 21-2-25:
 - Exceptions 
 - Types of Exceptions
 - Checked Exceptions
@@ -254,6 +254,28 @@ Key Considerations
 - Creating Custom Exceptions
 - Extending Exception Class
 - Defining Constructors
+
+## Assignment-22-2-25:
+- Regex 
+- MetaCharacter
+- Quantifier
+
+### Common Patterns:
+ - Email Validation
+ - Password Strength
+ - Phone Number Format 
+-  C# Regex API 
+- Pattern
+- Matcher
+- Methods:
+- find()
+- matches()
+- replaceAll()
+- Introduction to NUnit Framework
+- NUnit Annotations
+- Writing Test Cases
+- Structure of a Test Class
+- Assertions
 
 
 
