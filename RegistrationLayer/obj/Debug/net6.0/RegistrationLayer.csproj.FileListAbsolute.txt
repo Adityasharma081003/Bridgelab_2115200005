@@ -1,0 +1,11 @@
+C:\WebApplication\RegistrationLayer\bin\Debug\net6.0\RegistrationLayer.deps.json
+C:\WebApplication\RegistrationLayer\bin\Debug\net6.0\RegistrationLayer.dll
+C:\WebApplication\RegistrationLayer\bin\Debug\net6.0\RegistrationLayer.pdb
+C:\WebApplication\RegistrationLayer\obj\Debug\net6.0\RegistrationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApplication\RegistrationLayer\obj\Debug\net6.0\RegistrationLayer.AssemblyInfoInputs.cache
+C:\WebApplication\RegistrationLayer\obj\Debug\net6.0\RegistrationLayer.AssemblyInfo.cs
+C:\WebApplication\RegistrationLayer\obj\Debug\net6.0\RegistrationLayer.csproj.CoreCompileInputs.cache
+C:\WebApplication\RegistrationLayer\obj\Debug\net6.0\RegistrationLayer.dll
+C:\WebApplication\RegistrationLayer\obj\Debug\net6.0\refint\RegistrationLayer.dll
+C:\WebApplication\RegistrationLayer\obj\Debug\net6.0\RegistrationLayer.pdb
+C:\WebApplication\RegistrationLayer\obj\Debug\net6.0\ref\RegistrationLayer.dll
