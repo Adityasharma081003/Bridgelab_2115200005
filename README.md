@@ -277,10 +277,22 @@ Key Considerations
 - Structure of a Test Class
 - Assertions
 
+## Assignment-24-2-25
+Annotation
+Reflection
 
+## Assignment-25-2-25
+CSV File Handling
 
+## Assignment-26-2-25
+Working With JSON
 
-
+## Assignment-27-2-25
+Learnt basic asp.net web api core project structure.
+## Assignment-28-2-25
+Learnt basic asp.net web api core project structure and make assignment on user registration api. Assignment done on web api of employee management in which made an api for adding employee, implements swagger and nlog.
+## Assignment-1-3-25
+Assignment done on web api of employee management in which made an api for adding employee, implements swagger and nlog and also use entity.
 
 
 
